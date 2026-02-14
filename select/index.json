@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛してるって言って",
+  "base_artist": "ポンツクピーヤ",
+  "createdAt": "2026-02-14T04:18:55.792381Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛してるって言って",
+      "artist": "ポンツク  ピーヤ",
+      "has_synced": false,
+      "path": "select/pl_01_愛してるって言って_ポンツク_ピーヤ.txt"
+    }
+  ]
+}
